@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    position: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: #bfd7e7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
